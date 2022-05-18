@@ -2,4 +2,4 @@
 
 2、或者发给机器人 /cmd wget -q https://raw.githubusercontent.com/Anylines/panel0/main/panel.sh -O panel.sh && chmod +x panel.sh && ./panel.sh && rm -f panel.sh
 
-3、        wget https://raw.githubusercontent.com/Anylines/panel0/main/panel.sh && bash panel.sh
+3、wget -q https://raw.githubusercontent.com/Anylines/panel0/main/panel.sh -O panel.sh && bash panel.sh
